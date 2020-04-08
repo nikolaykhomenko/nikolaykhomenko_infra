@@ -5,9 +5,12 @@ nikolaykhomenko Infra repository
 ssh -J nhomenko@34.77.235.197 nhomenko@10.132.0.5
 
 Конфигурация Test App:
-
-testapp_IP = 34.76.182.245
-testapp_port = 9292
+``` testapp_IP = 34.76.182.245
+    testapp_port = 9292
+ ```
+  
+  
+  
 
 Создание VM
 
